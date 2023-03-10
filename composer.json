@@ -1,0 +1,21 @@
+{
+    "name": "norman-huth/locale-list",
+    "description": "List of all locales with names and codes in all languages",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "NormanHuth\\LocaleList\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saša Stamenković",
+            "email": "umpirsky@gmail.com"
+        },
+        {
+            "name": "Norman Huth",
+            "homepage": "https://huth.it"
+        }
+    ],
+    "require": {}
+}

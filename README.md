@@ -1,0 +1,20 @@
+# Locale List
+
+List of all locales with names and codes in all languages.
+
+## Formats Available
+
+* PHP
+* JSON
+
+## Install
+
+```shell
+composer require norman-huth/locale-list
+```
+
+## Other Packages:
+
+* [norman-huth/language-list](https://github.com/Muetze42/language-list)
+* [norman-huth/currency-list](https://github.com/Muetze42/currency-list)
+* [norman-huth/country-list](https://github.com/Muetze42/country-list)
