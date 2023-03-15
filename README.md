@@ -2,10 +2,8 @@
 
 List of all locales with names and codes in all languages.
 
-## Formats Available
-
-* PHP
-* JSON
+This is a fork from [umpirsky/locale-list](https://github.com/umpirsky/locale-list), but only with PHP array and a filesize about 10% of the
+original package.
 
 ## Install
 

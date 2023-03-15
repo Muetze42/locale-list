@@ -17,5 +17,7 @@
             "homepage": "https://huth.it"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.1|^8.0"
+    }
 }
